@@ -9,22 +9,13 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Xbaroxx/VcVideoPlayer2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Baduyyy/VcVideoPlayer23"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 # Our Credit 🔥
 
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/ProErrorXD"><img src="https://img.shields.io/badge/Error-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/piroXpower"><img src="https://img.shields.io/badge/Blaze-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/jalim_munda"><img src="https://img.shields.io/badge/Harsh-1b77FF.svg?logo=telegram"></a>
-
-<a href="https://t.me/DEVILDAD_PRINCE"><img src="https://img.shields.io/badge/Devil-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/Pratheek_XD"><img src="https://img.shields.io/badge/Habibi-1b77FF.svg?logo=telegram"></a>
-<a href="https://t.me/imsafone"><img src="https://img.shields.io/badge/Safone-1b77FF.svg?logo=Telegram"></a>
-<a href="t.me/SammyXD"><img src="https://img.shields.io/badge/Sammy-1b77FF.svg?logo=telegram"></a>
-
+- [Laky](https://github.com/Baduyyy)
 
 # Special Thanks To 💞
 
