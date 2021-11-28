@@ -15,7 +15,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 # Our Credit 🔥
 
-- [Laky](https://github.com/Baduyyy)
+- [BADUY](https://github.com/Baduyyy)
 
 # Special Thanks To 💞
 
